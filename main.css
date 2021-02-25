@@ -109,7 +109,7 @@ header .header-container .navigation-bar .digital {
 }
 
 header .header-container .navigation-bar .digital::after {
-  width: 100%;
+  display: none;
 }
 
 header .header-container img {
